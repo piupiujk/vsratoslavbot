@@ -1,1 +1,3 @@
-# vsratoslavbot
+# Тестовое задание
+
+Сделать копию бота @vsratoslavbot
